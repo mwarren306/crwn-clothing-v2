@@ -37,7 +37,7 @@ const App = () => {
         </div>
       </div>
     </div>
-=======
+
 import { Routes, Route } from 'react-router-dom';
 
 import Home from './routes/home/home.component';
@@ -56,7 +56,6 @@ const App = () => {
         <Route path='checkout' element={<Checkout />} />
       </Route>
     </Routes>
->>>>>>> lesson-24
   );
 };
 
